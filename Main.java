@@ -14,6 +14,7 @@ public class Main {
 		Siswa siswa2 = new Siswa("alvin", 2, 184,"", 1, 0, 1);
 		Siswa siswa3 = new Siswa("fajar", 3, 194, "", 5, 1, 0);
 		Siswa siswa4 = new Siswa("neila", 4, 124, "", 2, 1, 0);
+		Siswa siswa5 = new Siswa("mila", 5, 114, "", 2, 0, 1);
 
 		listSiswa.addNode(siswa1);
 		listSiswa.addNode(siswa2);
